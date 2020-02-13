@@ -1,3 +1,5 @@
+package dataStructure;
+
 import java.util.*;
 
 public class Student{
@@ -89,3 +91,4 @@ class SortById implements Comparator<String>
         return o1.compareTo(o2);
     }
 }
+
